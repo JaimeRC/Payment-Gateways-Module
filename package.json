@@ -1,0 +1,24 @@
+{
+  "name": "gateway-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/index.js --timeout 15000 --exit"
+  },
+  "author": "Jaime Rubio",
+  "contributors": [{
+    "name": "Jaime Rubio",
+    "email": "jaime.rc@icloud.com",
+    "url": "https://github.com/JaimeRC"
+  }],
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
+  },
+  "dependencies": {
+    "braintree": "^2.21.0",
+    "braintree-web": "^3.57.0"
+  }
+}
