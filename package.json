@@ -16,11 +16,11 @@
   ],
   "license": "ISC",
   "devDependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^8.1.1"
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
   },
   "dependencies": {
-    "braintree": "^2.24.0",
-    "braintree-web": "^3.64.2"
+    "braintree": "^3.3.0",
+    "braintree-web": "^3.76.3"
   }
 }
