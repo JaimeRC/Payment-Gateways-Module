@@ -20,7 +20,7 @@
     "mocha": "^8.3.2"
   },
   "dependencies": {
-    "braintree": "^3.3.0",
+    "braintree": "^3.15.0",
     "braintree-web": "^3.76.3"
   }
 }
