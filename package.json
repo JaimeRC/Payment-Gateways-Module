@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "braintree": "^3.3.0",
-    "braintree-web": "^3.76.3"
+    "braintree-web": "^3.93.0"
   }
 }
